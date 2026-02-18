@@ -1,5 +1,5 @@
 function bukaSurat() {
-    var passwordBenar = "23"; // GANTI PASSWORD DI SINI
+    var passwordBenar = "Intan Wulandari"; // GANTI PASSWORD DI SINI
     var input = document.getElementById("password").value;
     var pesan = document.getElementById("pesan");
 
@@ -10,3 +10,4 @@ function bukaSurat() {
         pesan.innerHTML = "Password salah 🤍";
     }
 }
+
